@@ -1,0 +1,5 @@
+﻿  Course#7     Project Number 1 The Bank.cpp
+C:\Users\lenovo\source\repos\Course(41,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lenovo\source\repos\Course(274,1): warning C4715: 'DeleteClientS': not all control paths return a value
+C:\Users\lenovo\source\repos\Course(329,1): warning C4715: 'UpdateClientInfo': not all control paths return a value
+  Course#7     Project Number 1 The Bank.vcxproj -> C:\Users\lenovo\source\repos\Course#7     Project Number 1 The Bank\x64\Debug\Course#7     Project Number 1 The Bank.exe
